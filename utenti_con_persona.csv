@@ -1,0 +1,241 @@
+user_uuid,n_pratiche,quota_challenge,n_coach_diversi,categoria_top,livello_top,piattaforma_top,paese,iscrizione,prima_pratica,ultima_pratica,mesi_attivita,giorni_iscritto,cluster,persona
+1,7,71.0,6,power yoga,basic,tv,it,2021-05-20,2022-05-13,2023-11-18,18.2,952,1,I Campioni
+2,6,83.0,4,power yoga,advanced,tv,it,2022-01-06,2023-01-10,2023-07-05,5.8,721,0,Le Reclute in Crescita
+3,3,67.0,3,hatha,advanced,mobile,it,2020-07-22,2021-01-12,2021-07-16,6.1,1254,3,I Distaccati
+4,4,100.0,3,hatha,advanced,pc,fr,2022-05-10,2023-01-25,2023-07-10,5.5,597,0,Le Reclute in Crescita
+5,4,25.0,3,power yoga,advanced,tv,uk,2022-01-25,2023-03-14,2023-12-26,9.4,702,3,I Distaccati
+6,2,100.0,2,hatha,advanced,tv,it,2020-09-14,2022-03-05,2022-09-01,5.9,1200,4,I Cacciatori di Challenge
+7,5,60.0,4,power yoga,basic,mobile,fr,2021-09-01,2022-02-22,2022-12-24,10.0,848,0,Le Reclute in Crescita
+8,2,100.0,2,meditation,advanced,tv,fr,2022-04-23,2023-10-27,2023-12-05,1.3,614,4,I Cacciatori di Challenge
+9,3,33.0,3,meditation,basic,tv,uk,2021-03-21,2022-04-23,2023-08-19,15.9,1012,3,I Distaccati
+10,6,100.0,5,power yoga,advanced,mobile,it,2022-08-05,2023-03-04,2023-12-05,9.1,510,0,Le Reclute in Crescita
+11,6,50.0,6,meditation,advanced,mobile,it,2020-11-23,2021-05-27,2023-06-25,24.9,1130,1,I Campioni
+12,2,100.0,2,power yoga,advanced,pc,it,2022-08-21,2023-10-10,2023-11-06,0.9,494,4,I Cacciatori di Challenge
+14,3,67.0,3,power yoga,intermediate,tv,fr,2021-01-14,2022-03-28,2023-03-04,11.2,1078,2,Lo Zoccolo Duro
+15,9,78.0,7,power yoga,intermediate,tv,uk,2022-05-13,2023-01-11,2023-10-02,8.7,594,1,I Campioni
+16,5,60.0,5,vinyasa,advanced,tv,it,2020-04-02,2021-07-26,2023-10-08,26.4,1365,2,Lo Zoccolo Duro
+17,7,71.0,6,vinyasa,basic,tv,uk,2021-07-02,2022-05-03,2023-07-13,14.3,909,1,I Campioni
+18,4,75.0,4,power yoga,advanced,pc,it,2021-12-14,2022-01-05,2022-10-27,9.7,744,0,Le Reclute in Crescita
+19,4,75.0,4,power yoga,advanced,pc,it,2020-04-12,2021-06-13,2023-01-20,19.3,1355,2,Lo Zoccolo Duro
+20,5,80.0,4,hatha,advanced,pc,uk,2020-02-10,2022-05-01,2023-12-12,19.4,1417,2,Lo Zoccolo Duro
+21,2,50.0,2,hatha,advanced,mobile,fr,2021-07-11,2022-03-13,2022-03-15,0.1,900,3,I Distaccati
+22,2,100.0,2,hatha,advanced,mobile,fr,2022-01-25,2023-04-12,2023-09-04,4.8,702,4,I Cacciatori di Challenge
+23,5,80.0,4,power yoga,advanced,pc,it,2021-09-20,2022-01-17,2023-12-24,23.2,829,2,Lo Zoccolo Duro
+24,4,75.0,4,power yoga,advanced,tv,fr,2020-09-09,2021-02-22,2023-01-02,22.3,1205,2,Lo Zoccolo Duro
+25,7,86.0,6,hatha,advanced,tv,uk,2021-10-28,2022-02-04,2023-09-06,19.0,791,1,I Campioni
+26,4,75.0,4,power yoga,advanced,tv,fr,2021-07-20,2022-02-18,2023-08-19,18.0,891,2,Lo Zoccolo Duro
+27,4,100.0,4,vinyasa,advanced,mobile,fr,2021-01-12,2022-08-13,2023-05-20,9.2,1080,2,Lo Zoccolo Duro
+28,4,100.0,3,power yoga,advanced,tv,it,2022-06-01,2023-01-13,2023-12-17,11.1,575,0,Le Reclute in Crescita
+29,3,33.0,2,meditation,basic,mobile,uk,2021-07-06,2022-05-15,2023-04-02,10.6,905,3,I Distaccati
+30,5,80.0,4,power yoga,advanced,pc,it,2021-01-23,2022-01-23,2023-11-06,21.4,1069,2,Lo Zoccolo Duro
+31,4,100.0,4,power yoga,advanced,mobile,it,2022-09-07,2023-06-04,2023-09-13,3.3,477,0,Le Reclute in Crescita
+32,5,80.0,5,power yoga,advanced,pc,it,2022-03-07,2023-01-02,2023-12-23,11.7,661,0,Le Reclute in Crescita
+33,1,100.0,1,meditation,basic,pc,uk,2022-07-02,2023-08-19,2023-08-19,0.0,544,4,I Cacciatori di Challenge
+35,5,40.0,4,power yoga,basic,mobile,it,2022-07-19,2023-01-20,2023-11-27,10.2,527,0,Le Reclute in Crescita
+36,5,80.0,5,power yoga,advanced,tv,it,2021-02-07,2022-02-04,2023-07-06,17.0,1054,2,Lo Zoccolo Duro
+37,7,71.0,6,vinyasa,advanced,tv,uk,2021-09-04,2022-09-09,2023-11-09,14.0,845,1,I Campioni
+38,9,78.0,7,power yoga,advanced,mobile,it,2021-01-02,2022-02-03,2023-09-16,19.4,1090,1,I Campioni
+39,3,100.0,3,power yoga,advanced,tv,fr,2020-08-03,2022-08-03,2023-11-22,15.6,1242,2,Lo Zoccolo Duro
+40,5,60.0,4,power yoga,advanced,tv,it,2021-09-08,2022-12-27,2023-09-27,9.0,841,0,Le Reclute in Crescita
+41,4,50.0,4,power yoga,basic,tv,uk,2021-08-01,2022-10-27,2023-07-10,8.4,879,3,I Distaccati
+43,4,25.0,4,power yoga,advanced,tv,fr,2022-09-14,2023-01-28,2023-10-06,8.2,470,3,I Distaccati
+44,3,100.0,3,hatha,advanced,tv,uk,2020-12-09,2021-05-12,2023-05-05,23.8,1114,2,Lo Zoccolo Duro
+45,4,75.0,4,power yoga,advanced,tv,it,2022-10-16,2023-01-17,2023-12-05,10.6,438,0,Le Reclute in Crescita
+46,5,80.0,4,power yoga,advanced,mobile,it,2021-05-08,2022-04-14,2023-10-01,17.6,964,2,Lo Zoccolo Duro
+47,6,100.0,6,power yoga,basic,tv,it,2022-08-10,2023-01-09,2023-12-11,11.0,505,0,Le Reclute in Crescita
+48,4,50.0,4,power yoga,advanced,tv,uk,2020-10-21,2022-04-25,2023-11-27,19.1,1163,2,Lo Zoccolo Duro
+49,6,50.0,4,power yoga,basic,tv,fr,2020-10-24,2021-06-05,2023-07-03,24.9,1160,2,Lo Zoccolo Duro
+50,5,40.0,5,power yoga,advanced,pc,it,2021-02-18,2022-04-12,2023-11-09,18.9,1043,2,Lo Zoccolo Duro
+51,6,83.0,5,hatha,advanced,tv,fr,2022-07-09,2023-03-08,2023-12-04,8.9,537,0,Le Reclute in Crescita
+52,4,100.0,4,meditation,advanced,mobile,it,2022-03-15,2023-01-26,2023-06-18,4.7,653,0,Le Reclute in Crescita
+53,9,89.0,9,hatha,advanced,tv,it,2020-10-08,2021-04-28,2023-02-18,21.7,1176,1,I Campioni
+54,5,80.0,4,power yoga,basic,pc,it,2022-05-02,2023-02-22,2023-09-16,6.8,605,0,Le Reclute in Crescita
+55,3,100.0,2,meditation,advanced,pc,fr,2020-11-28,2022-11-05,2023-12-18,13.4,1125,4,I Cacciatori di Challenge
+56,2,50.0,2,power yoga,advanced,tv,it,2020-09-28,2022-01-17,2023-01-27,12.3,1186,3,I Distaccati
+57,3,100.0,2,power yoga,intermediate,mobile,it,2020-07-11,2021-10-01,2022-06-16,8.5,1265,4,I Cacciatori di Challenge
+58,6,67.0,5,power yoga,advanced,mobile,it,2021-11-18,2022-06-03,2022-12-23,6.7,770,0,Le Reclute in Crescita
+59,5,100.0,5,vinyasa,basic,pc,uk,2021-06-25,2022-08-11,2023-11-12,15.0,916,0,Le Reclute in Crescita
+60,2,0.0,2,hatha,advanced,pc,fr,2020-11-10,2021-07-11,2023-10-07,26.9,1143,3,I Distaccati
+61,2,100.0,2,hatha,advanced,pc,it,2020-08-09,2021-09-25,2023-03-21,17.8,1236,2,Lo Zoccolo Duro
+62,4,75.0,4,hatha,advanced,tv,it,2022-09-03,2023-01-01,2023-08-19,7.6,481,0,Le Reclute in Crescita
+63,5,60.0,5,vinyasa,basic,mobile,uk,2020-02-27,2021-07-05,2023-07-12,24.2,1400,2,Lo Zoccolo Duro
+64,6,100.0,6,power yoga,advanced,tv,it,2022-11-04,2023-04-07,2023-11-18,7.4,419,0,Le Reclute in Crescita
+65,8,62.0,7,power yoga,intermediate,tv,uk,2020-05-04,2021-03-21,2023-08-01,28.4,1333,1,I Campioni
+66,4,100.0,4,vinyasa,intermediate,tv,it,2020-03-19,2021-09-01,2023-09-10,24.3,1379,2,Lo Zoccolo Duro
+67,5,60.0,4,vinyasa,advanced,mobile,fr,2020-10-01,2021-07-17,2023-10-06,26.6,1183,2,Lo Zoccolo Duro
+68,4,75.0,4,power yoga,advanced,pc,it,2020-12-14,2023-01-07,2023-12-19,11.4,1109,2,Lo Zoccolo Duro
+69,4,75.0,4,vinyasa,advanced,pc,fr,2020-08-23,2021-09-06,2023-03-06,17.9,1222,2,Lo Zoccolo Duro
+70,6,83.0,4,power yoga,basic,tv,fr,2021-12-03,2022-07-28,2023-11-20,15.8,755,0,Le Reclute in Crescita
+71,5,100.0,4,meditation,basic,pc,it,2021-05-10,2022-02-25,2023-06-02,15.2,962,2,Lo Zoccolo Duro
+72,3,100.0,3,vinyasa,basic,mobile,it,2022-10-12,2023-04-16,2023-11-12,6.9,442,0,Le Reclute in Crescita
+73,3,33.0,2,hatha,basic,mobile,fr,2020-11-14,2021-09-01,2023-06-23,21.7,1139,3,I Distaccati
+74,1,100.0,1,hatha,intermediate,mobile,uk,2021-07-04,2022-01-20,2022-01-20,0.0,907,4,I Cacciatori di Challenge
+75,3,67.0,3,hatha,basic,tv,fr,2021-07-20,2022-05-21,2023-12-13,18.8,891,2,Lo Zoccolo Duro
+76,4,50.0,4,vinyasa,advanced,tv,fr,2020-05-14,2021-05-16,2023-10-22,29.2,1323,2,Lo Zoccolo Duro
+77,4,50.0,4,power yoga,advanced,pc,fr,2020-06-01,2021-07-09,2023-12-08,29.0,1305,2,Lo Zoccolo Duro
+78,4,75.0,4,vinyasa,advanced,mobile,it,2021-02-24,2022-04-19,2023-12-02,19.4,1037,2,Lo Zoccolo Duro
+79,4,100.0,3,vinyasa,basic,pc,it,2020-12-12,2021-07-01,2023-03-27,20.8,1111,2,Lo Zoccolo Duro
+80,2,50.0,2,hatha,basic,tv,fr,2021-07-07,2023-03-11,2023-08-02,4.7,904,3,I Distaccati
+81,3,33.0,3,hatha,intermediate,tv,it,2022-08-23,2023-05-03,2023-07-06,2.1,492,3,I Distaccati
+82,3,100.0,3,hatha,advanced,tv,it,2022-01-21,2023-07-06,2023-12-01,4.9,706,4,I Cacciatori di Challenge
+83,5,60.0,5,power yoga,advanced,tv,it,2020-07-23,2022-03-06,2023-02-06,11.1,1253,2,Lo Zoccolo Duro
+84,5,80.0,5,meditation,basic,pc,it,2020-06-09,2021-12-02,2023-12-28,24.8,1297,2,Lo Zoccolo Duro
+85,5,80.0,5,power yoga,advanced,tv,uk,2020-03-28,2021-06-21,2023-02-20,20.0,1370,2,Lo Zoccolo Duro
+86,5,80.0,5,meditation,basic,pc,it,2022-11-14,2023-02-18,2023-11-21,9.1,409,0,Le Reclute in Crescita
+87,5,60.0,5,hatha,intermediate,tv,it,2021-09-12,2022-11-21,2023-12-16,12.8,837,0,Le Reclute in Crescita
+88,5,60.0,5,vinyasa,basic,mobile,it,2022-11-12,2023-02-11,2023-08-23,6.3,411,0,Le Reclute in Crescita
+89,4,50.0,1,hatha,advanced,pc,fr,2020-01-02,2021-06-05,2022-01-11,7.2,1456,3,I Distaccati
+90,4,75.0,3,vinyasa,advanced,pc,it,2022-03-13,2023-01-09,2023-05-27,4.5,655,0,Le Reclute in Crescita
+91,2,50.0,2,hatha,advanced,mobile,it,2020-03-02,2021-04-03,2023-02-12,22.3,1396,2,Lo Zoccolo Duro
+92,6,50.0,6,power yoga,advanced,tv,fr,2021-10-24,2022-04-16,2023-10-07,17.7,795,1,I Campioni
+93,9,78.0,9,power yoga,advanced,tv,fr,2021-07-04,2022-01-09,2023-11-02,21.7,907,1,I Campioni
+94,4,100.0,2,vinyasa,advanced,tv,uk,2020-03-24,2022-05-02,2023-03-03,10.0,1374,2,Lo Zoccolo Duro
+95,4,75.0,4,power yoga,intermediate,pc,it,2022-03-10,2023-08-22,2023-11-18,2.9,658,0,Le Reclute in Crescita
+96,3,100.0,3,meditation,basic,pc,it,2020-12-03,2021-11-08,2023-12-12,25.1,1120,2,Lo Zoccolo Duro
+97,6,100.0,5,vinyasa,basic,tv,uk,2021-05-21,2022-07-15,2023-12-25,17.3,951,2,Lo Zoccolo Duro
+98,3,67.0,3,vinyasa,advanced,mobile,fr,2020-09-26,2021-08-08,2023-01-28,17.7,1188,2,Lo Zoccolo Duro
+99,5,60.0,5,power yoga,basic,mobile,it,2022-01-20,2023-01-23,2023-12-22,10.9,707,0,Le Reclute in Crescita
+100,12,67.0,10,power yoga,advanced,tv,it,2022-02-02,2023-04-07,2023-12-28,8.7,694,1,I Campioni
+101,2,100.0,2,hatha,advanced,mobile,it,2021-05-06,2022-01-05,2022-06-15,5.3,966,4,I Cacciatori di Challenge
+102,3,67.0,3,vinyasa,advanced,pc,uk,2021-05-10,2022-05-02,2023-10-17,17.5,962,2,Lo Zoccolo Duro
+103,5,60.0,4,power yoga,basic,tv,fr,2020-03-25,2021-03-08,2023-03-03,23.8,1373,2,Lo Zoccolo Duro
+104,4,75.0,4,vinyasa,basic,tv,fr,2022-04-11,2023-01-20,2023-07-14,5.7,626,0,Le Reclute in Crescita
+105,4,100.0,4,hatha,advanced,tv,uk,2022-01-25,2023-04-15,2023-08-26,4.4,702,0,Le Reclute in Crescita
+106,2,100.0,2,hatha,advanced,pc,it,2022-12-23,2023-06-11,2023-10-08,3.9,370,4,I Cacciatori di Challenge
+107,3,100.0,3,hatha,advanced,pc,fr,2020-11-14,2021-02-27,2023-10-23,31.8,1139,2,Lo Zoccolo Duro
+108,3,100.0,3,hatha,basic,mobile,it,2021-12-08,2022-05-18,2023-08-05,14.6,750,4,I Cacciatori di Challenge
+109,3,100.0,3,vinyasa,advanced,mobile,uk,2022-08-08,2023-05-26,2023-09-03,3.3,507,4,I Cacciatori di Challenge
+110,4,100.0,4,power yoga,basic,pc,it,2020-01-06,2021-04-01,2023-07-08,27.2,1452,2,Lo Zoccolo Duro
+111,2,100.0,2,vinyasa,intermediate,mobile,uk,2020-09-01,2021-06-21,2023-05-06,22.5,1213,2,Lo Zoccolo Duro
+112,2,50.0,2,hatha,advanced,mobile,it,2021-05-21,2022-01-22,2023-09-27,20.1,951,3,I Distaccati
+113,5,40.0,4,power yoga,advanced,pc,fr,2021-01-18,2022-03-23,2023-03-27,12.1,1074,3,I Distaccati
+114,2,50.0,2,hatha,basic,mobile,fr,2022-07-08,2023-05-18,2023-05-19,0.0,538,3,I Distaccati
+115,5,80.0,4,vinyasa,advanced,pc,fr,2020-01-08,2022-01-23,2023-11-14,21.7,1450,2,Lo Zoccolo Duro
+116,5,60.0,5,vinyasa,advanced,tv,it,2021-10-09,2022-02-06,2023-10-21,20.4,810,2,Lo Zoccolo Duro
+117,7,29.0,6,power yoga,advanced,pc,uk,2020-07-13,2021-02-02,2023-12-12,34.3,1263,1,I Campioni
+118,5,80.0,5,meditation,advanced,tv,fr,2021-04-27,2022-03-26,2023-07-11,15.5,975,2,Lo Zoccolo Duro
+119,6,100.0,3,hatha,advanced,pc,it,2022-08-25,2023-02-09,2023-08-16,6.2,490,0,Le Reclute in Crescita
+120,9,56.0,7,power yoga,advanced,tv,it,2021-09-23,2022-03-05,2023-11-07,20.1,826,1,I Campioni
+121,6,83.0,6,power yoga,advanced,pc,it,2020-11-03,2021-03-19,2023-11-05,31.6,1150,1,I Campioni
+122,1,0.0,1,meditation,intermediate,pc,uk,2022-12-17,2023-06-27,2023-06-27,0.0,376,3,I Distaccati
+123,2,0.0,2,power yoga,advanced,mobile,uk,2021-09-19,2023-03-03,2023-04-22,1.6,830,3,I Distaccati
+124,6,67.0,4,power yoga,advanced,tv,uk,2022-09-14,2023-03-27,2023-12-28,9.1,470,0,Le Reclute in Crescita
+125,6,83.0,6,power yoga,advanced,pc,uk,2021-04-17,2022-03-17,2023-12-01,20.5,985,1,I Campioni
+126,3,100.0,3,meditation,basic,pc,it,2022-03-02,2023-04-01,2023-12-25,8.8,666,4,I Cacciatori di Challenge
+127,5,80.0,4,vinyasa,advanced,tv,fr,2021-05-26,2022-03-07,2023-11-04,19.9,946,2,Lo Zoccolo Duro
+128,3,67.0,3,hatha,basic,tv,uk,2021-01-26,2022-03-22,2022-09-18,5.9,1066,3,I Distaccati
+129,3,100.0,3,hatha,advanced,mobile,fr,2022-11-10,2023-04-10,2023-09-25,5.5,413,0,Le Reclute in Crescita
+130,1,100.0,1,hatha,advanced,pc,uk,2021-02-10,2022-06-17,2022-06-17,0.0,1051,4,I Cacciatori di Challenge
+131,5,60.0,4,power yoga,basic,mobile,it,2022-03-26,2023-02-21,2023-11-07,8.5,642,0,Le Reclute in Crescita
+132,4,100.0,4,vinyasa,advanced,mobile,it,2022-07-25,2023-04-21,2023-11-02,6.4,521,0,Le Reclute in Crescita
+133,5,100.0,3,power yoga,advanced,pc,uk,2022-07-19,2023-01-03,2023-12-06,11.1,527,0,Le Reclute in Crescita
+134,3,67.0,3,hatha,advanced,mobile,fr,2022-11-20,2023-04-25,2023-11-27,7.1,403,0,Le Reclute in Crescita
+135,3,33.0,3,power yoga,intermediate,mobile,fr,2021-08-16,2022-06-23,2023-12-22,18.0,864,3,I Distaccati
+136,6,83.0,6,power yoga,advanced,pc,it,2021-05-07,2022-03-10,2023-04-24,13.5,965,1,I Campioni
+137,2,100.0,2,power yoga,basic,tv,it,2022-03-01,2023-03-07,2023-03-14,0.2,667,4,I Cacciatori di Challenge
+138,4,100.0,4,vinyasa,advanced,tv,it,2020-04-06,2022-03-01,2023-08-06,17.2,1361,2,Lo Zoccolo Duro
+139,2,100.0,2,hatha,advanced,tv,fr,2020-03-28,2021-06-02,2023-03-02,21.0,1370,2,Lo Zoccolo Duro
+140,3,33.0,2,hatha,advanced,pc,fr,2021-10-03,2022-03-23,2023-10-20,18.9,816,3,I Distaccati
+141,5,80.0,5,meditation,basic,tv,it,2021-05-23,2022-12-11,2023-05-06,4.8,949,0,Le Reclute in Crescita
+142,4,100.0,4,vinyasa,advanced,pc,it,2022-05-20,2023-03-22,2023-09-19,5.9,587,0,Le Reclute in Crescita
+143,4,75.0,3,hatha,advanced,pc,uk,2022-05-22,2023-03-06,2023-10-11,7.2,585,0,Le Reclute in Crescita
+144,5,60.0,5,hatha,advanced,pc,it,2020-04-13,2021-09-02,2022-11-22,14.7,1354,2,Lo Zoccolo Duro
+145,2,50.0,2,power yoga,basic,pc,it,2020-01-13,2021-08-07,2021-11-04,2.9,1445,3,I Distaccati
+146,2,100.0,2,hatha,basic,tv,fr,2020-04-26,2021-05-18,2021-12-03,6.5,1341,4,I Cacciatori di Challenge
+147,1,100.0,1,vinyasa,advanced,pc,it,2021-02-21,2023-07-03,2023-07-03,0.0,1040,4,I Cacciatori di Challenge
+148,1,100.0,1,power yoga,intermediate,tv,uk,2021-04-24,2022-09-17,2022-09-17,0.0,978,4,I Cacciatori di Challenge
+149,4,100.0,3,hatha,basic,pc,it,2020-05-11,2021-10-02,2023-04-18,18.5,1326,2,Lo Zoccolo Duro
+150,4,75.0,4,power yoga,advanced,pc,fr,2021-04-01,2022-05-01,2023-03-25,10.8,1001,2,Lo Zoccolo Duro
+151,1,100.0,1,power yoga,advanced,tv,it,2020-12-02,2022-04-09,2022-04-09,0.0,1121,4,I Cacciatori di Challenge
+152,1,100.0,1,hatha,basic,tv,it,2021-10-01,2022-07-15,2022-07-15,0.0,818,4,I Cacciatori di Challenge
+153,4,75.0,3,power yoga,basic,tv,uk,2020-06-14,2021-08-10,2023-07-22,23.4,1292,2,Lo Zoccolo Duro
+154,1,0.0,1,hatha,intermediate,tv,it,2022-06-27,2023-06-03,2023-06-03,0.0,549,3,I Distaccati
+155,3,67.0,3,vinyasa,advanced,mobile,fr,2022-12-19,2023-01-28,2023-08-01,6.1,374,0,Le Reclute in Crescita
+156,7,86.0,6,power yoga,advanced,tv,it,2022-02-18,2023-01-11,2023-09-02,7.7,678,0,Le Reclute in Crescita
+157,1,100.0,1,hatha,advanced,tv,it,2020-02-12,2021-07-07,2021-07-07,0.0,1415,4,I Cacciatori di Challenge
+158,5,100.0,4,power yoga,advanced,pc,fr,2020-03-18,2021-09-13,2023-06-06,20.7,1380,2,Lo Zoccolo Duro
+159,4,75.0,4,vinyasa,advanced,pc,fr,2021-06-21,2022-03-12,2022-12-04,8.8,920,0,Le Reclute in Crescita
+160,7,57.0,6,power yoga,advanced,tv,it,2021-01-01,2022-02-28,2023-11-13,20.5,1091,1,I Campioni
+161,4,75.0,4,hatha,intermediate,tv,it,2021-10-23,2022-01-23,2023-10-11,20.6,796,2,Lo Zoccolo Duro
+162,7,57.0,6,vinyasa,advanced,tv,fr,2022-09-06,2023-01-12,2023-11-02,9.7,478,0,Le Reclute in Crescita
+163,7,100.0,6,power yoga,advanced,tv,it,2022-11-28,2023-01-09,2023-12-05,10.8,395,0,Le Reclute in Crescita
+164,5,100.0,5,meditation,intermediate,tv,fr,2021-02-20,2022-04-25,2023-09-03,16.3,1041,2,Lo Zoccolo Duro
+165,3,67.0,3,hatha,intermediate,mobile,fr,2020-08-03,2022-10-08,2023-08-07,10.0,1242,2,Lo Zoccolo Duro
+166,3,67.0,2,vinyasa,basic,mobile,it,2021-07-22,2022-04-15,2023-12-19,20.1,889,2,Lo Zoccolo Duro
+167,2,50.0,2,power yoga,advanced,pc,it,2022-09-27,2023-07-14,2023-10-13,3.0,457,3,I Distaccati
+168,6,83.0,5,power yoga,advanced,mobile,it,2022-10-15,2023-06-05,2023-12-06,6.0,439,0,Le Reclute in Crescita
+169,3,100.0,3,meditation,advanced,tv,it,2021-06-16,2022-03-16,2023-01-25,10.3,925,4,I Cacciatori di Challenge
+170,3,67.0,3,power yoga,advanced,tv,it,2021-10-07,2022-03-13,2022-06-14,3.1,812,3,I Distaccati
+171,5,60.0,5,hatha,advanced,mobile,it,2021-08-09,2022-01-02,2023-07-01,17.9,871,2,Lo Zoccolo Duro
+172,3,67.0,3,vinyasa,advanced,tv,it,2020-04-22,2021-07-14,2023-11-18,28.2,1345,2,Lo Zoccolo Duro
+173,6,83.0,6,vinyasa,advanced,pc,it,2021-12-12,2022-01-19,2023-09-17,19.9,746,1,I Campioni
+174,5,80.0,5,power yoga,advanced,tv,it,2022-02-12,2023-02-21,2023-11-15,8.8,684,0,Le Reclute in Crescita
+175,5,100.0,4,power yoga,advanced,pc,it,2021-02-27,2022-03-25,2023-08-17,16.8,1034,2,Lo Zoccolo Duro
+176,5,60.0,5,power yoga,advanced,tv,it,2021-01-07,2022-02-08,2023-12-09,22.0,1085,2,Lo Zoccolo Duro
+177,3,67.0,3,power yoga,basic,pc,it,2022-03-17,2023-05-04,2023-09-12,4.3,651,0,Le Reclute in Crescita
+178,4,100.0,4,hatha,advanced,pc,it,2022-06-15,2023-01-02,2023-06-27,5.8,561,0,Le Reclute in Crescita
+179,2,50.0,2,power yoga,advanced,tv,it,2022-04-13,2023-02-25,2023-05-07,2.3,624,3,I Distaccati
+180,2,100.0,2,power yoga,advanced,mobile,it,2021-02-08,2022-04-01,2023-12-09,20.3,1053,2,Lo Zoccolo Duro
+181,7,100.0,6,hatha,advanced,tv,fr,2020-12-09,2021-03-02,2023-09-12,30.4,1114,1,I Campioni
+182,5,80.0,5,vinyasa,advanced,tv,fr,2020-03-14,2021-02-02,2023-08-23,30.6,1384,2,Lo Zoccolo Duro
+183,6,67.0,4,power yoga,basic,tv,it,2021-08-20,2022-06-23,2023-11-05,16.4,860,0,Le Reclute in Crescita
+184,3,33.0,3,power yoga,intermediate,mobile,uk,2022-08-11,2023-03-15,2023-04-20,1.2,504,3,I Distaccati
+185,4,75.0,3,hatha,basic,pc,it,2020-10-21,2021-11-02,2023-09-07,22.1,1163,2,Lo Zoccolo Duro
+186,2,100.0,2,meditation,advanced,pc,fr,2020-08-12,2021-05-28,2022-03-25,9.9,1233,4,I Cacciatori di Challenge
+187,4,100.0,2,power yoga,advanced,pc,it,2020-05-03,2021-06-01,2023-10-18,28.5,1334,2,Lo Zoccolo Duro
+188,2,100.0,2,power yoga,advanced,pc,fr,2022-06-13,2023-03-06,2023-03-15,0.3,563,4,I Cacciatori di Challenge
+189,5,80.0,5,meditation,basic,tv,it,2021-06-05,2022-03-04,2023-12-11,21.3,936,2,Lo Zoccolo Duro
+190,10,90.0,10,power yoga,advanced,pc,it,2021-06-28,2022-01-24,2023-12-22,22.9,913,1,I Campioni
+191,1,100.0,1,meditation,advanced,pc,fr,2021-05-15,2022-04-06,2022-04-06,0.0,957,4,I Cacciatori di Challenge
+192,5,60.0,5,power yoga,basic,mobile,fr,2020-05-01,2021-06-10,2023-11-15,29.2,1336,2,Lo Zoccolo Duro
+193,3,67.0,3,power yoga,basic,pc,it,2021-11-14,2023-01-12,2023-03-21,2.2,774,3,I Distaccati
+195,5,60.0,4,power yoga,advanced,pc,it,2022-12-09,2023-01-05,2023-09-01,7.9,384,0,Le Reclute in Crescita
+196,5,60.0,5,vinyasa,basic,tv,fr,2022-06-04,2023-02-23,2023-12-06,9.4,572,0,Le Reclute in Crescita
+197,4,75.0,4,power yoga,advanced,pc,it,2021-08-08,2022-05-07,2023-09-27,16.7,872,2,Lo Zoccolo Duro
+198,2,50.0,2,power yoga,basic,mobile,fr,2021-07-04,2022-11-25,2023-02-28,3.1,907,3,I Distaccati
+199,3,67.0,3,vinyasa,advanced,tv,it,2020-07-27,2021-03-20,2023-09-22,30.1,1249,2,Lo Zoccolo Duro
+200,4,50.0,4,vinyasa,basic,pc,it,2022-03-24,2023-02-19,2023-11-16,8.9,644,0,Le Reclute in Crescita
+201,3,67.0,2,vinyasa,intermediate,tv,fr,2022-11-25,2023-03-01,2023-11-14,8.5,398,0,Le Reclute in Crescita
+202,9,78.0,7,power yoga,intermediate,tv,it,2020-02-04,2021-01-08,2023-08-03,30.8,1423,1,I Campioni
+203,3,100.0,3,power yoga,intermediate,tv,it,2021-03-28,2022-03-15,2023-11-14,20.0,1005,2,Lo Zoccolo Duro
+204,6,83.0,5,power yoga,basic,tv,it,2021-07-27,2022-09-12,2023-10-23,13.3,884,0,Le Reclute in Crescita
+205,4,50.0,3,power yoga,basic,tv,it,2021-01-22,2022-09-25,2023-05-05,7.3,1070,3,I Distaccati
+206,6,67.0,5,power yoga,advanced,tv,uk,2020-11-07,2021-11-20,2023-11-24,24.1,1146,2,Lo Zoccolo Duro
+208,1,100.0,1,power yoga,advanced,tv,uk,2022-11-20,2023-09-26,2023-09-26,0.0,403,4,I Cacciatori di Challenge
+209,3,67.0,3,meditation,intermediate,pc,fr,2020-07-06,2021-07-17,2023-08-08,24.7,1270,2,Lo Zoccolo Duro
+210,6,83.0,6,hatha,advanced,pc,it,2022-09-24,2023-01-04,2023-12-13,11.3,460,0,Le Reclute in Crescita
+211,2,100.0,2,meditation,advanced,tv,fr,2021-10-17,2022-07-23,2022-12-15,4.8,802,4,I Cacciatori di Challenge
+212,6,100.0,6,meditation,advanced,pc,it,2020-02-27,2022-06-09,2023-07-03,12.8,1400,1,I Campioni
+213,2,100.0,2,meditation,intermediate,pc,it,2021-09-24,2022-09-24,2023-07-02,9.2,825,4,I Cacciatori di Challenge
+214,4,100.0,4,power yoga,advanced,mobile,it,2020-03-24,2022-03-12,2023-09-03,17.7,1374,2,Lo Zoccolo Duro
+215,5,40.0,4,vinyasa,advanced,mobile,fr,2022-05-05,2023-01-13,2023-12-09,10.8,602,0,Le Reclute in Crescita
+216,2,50.0,2,power yoga,intermediate,tv,fr,2021-10-08,2022-04-16,2022-04-17,0.0,811,3,I Distaccati
+217,6,83.0,6,hatha,basic,pc,it,2022-02-07,2023-01-11,2023-08-08,6.9,689,0,Le Reclute in Crescita
+218,3,67.0,3,hatha,advanced,mobile,it,2021-02-16,2022-01-28,2023-11-04,21.2,1045,2,Lo Zoccolo Duro
+219,2,100.0,2,meditation,basic,pc,it,2021-12-24,2022-03-08,2022-05-18,2.3,734,4,I Cacciatori di Challenge
+220,5,80.0,4,hatha,basic,tv,it,2021-11-05,2022-03-05,2023-03-05,12.0,783,0,Le Reclute in Crescita
+221,2,50.0,2,power yoga,advanced,pc,it,2021-04-25,2022-02-04,2022-09-22,7.6,977,3,I Distaccati
+222,3,67.0,3,vinyasa,advanced,tv,it,2021-05-05,2022-09-02,2023-11-09,14.2,967,2,Lo Zoccolo Duro
+223,3,67.0,2,hatha,advanced,tv,uk,2020-12-01,2022-08-12,2023-08-18,12.2,1122,3,I Distaccati
+224,4,100.0,4,hatha,advanced,tv,it,2020-06-04,2021-09-09,2023-07-18,22.2,1302,2,Lo Zoccolo Duro
+225,3,100.0,2,vinyasa,advanced,mobile,it,2020-12-25,2021-06-04,2022-02-05,8.1,1098,4,I Cacciatori di Challenge
+226,4,75.0,4,power yoga,advanced,pc,uk,2020-10-04,2021-03-13,2023-10-16,31.1,1180,2,Lo Zoccolo Duro
+227,6,100.0,5,power yoga,advanced,pc,uk,2022-02-17,2023-01-05,2023-12-23,11.6,679,0,Le Reclute in Crescita
+228,4,75.0,3,vinyasa,intermediate,mobile,fr,2022-05-23,2023-03-21,2023-10-03,6.4,584,0,Le Reclute in Crescita
+229,5,80.0,5,hatha,intermediate,tv,it,2021-04-24,2022-02-11,2023-09-26,19.4,978,2,Lo Zoccolo Duro
+230,6,67.0,6,power yoga,advanced,pc,it,2020-01-09,2021-08-24,2023-04-27,20.1,1449,1,I Campioni
+231,5,100.0,5,vinyasa,advanced,pc,it,2022-01-03,2023-04-25,2023-10-06,5.4,724,0,Le Reclute in Crescita
+232,2,100.0,2,hatha,advanced,pc,fr,2021-06-25,2022-02-14,2023-11-21,21.2,916,2,Lo Zoccolo Duro
+233,3,67.0,3,power yoga,advanced,tv,uk,2021-06-11,2022-04-10,2022-12-23,8.4,930,3,I Distaccati
+234,2,0.0,2,power yoga,advanced,pc,fr,2021-11-19,2022-09-20,2023-05-15,7.8,769,3,I Distaccati
+235,2,50.0,2,power yoga,advanced,mobile,it,2021-02-11,2022-02-08,2023-06-06,15.9,1050,3,I Distaccati
+236,4,100.0,4,power yoga,intermediate,mobile,it,2022-05-19,2023-05-11,2023-09-27,4.6,588,0,Le Reclute in Crescita
+237,12,83.0,8,power yoga,advanced,pc,uk,2022-03-23,2023-02-01,2023-12-28,10.8,645,1,I Campioni
+238,1,0.0,1,hatha,intermediate,tv,uk,2020-09-16,2023-02-22,2023-02-22,0.0,1198,3,I Distaccati
+239,5,60.0,4,power yoga,basic,tv,uk,2020-02-04,2022-01-12,2023-06-04,16.7,1423,2,Lo Zoccolo Duro
+240,4,75.0,4,meditation,advanced,pc,it,2021-01-15,2022-03-20,2022-11-07,7.6,1077,2,Lo Zoccolo Duro
+241,5,100.0,4,power yoga,advanced,pc,it,2022-05-11,2023-04-19,2023-12-06,7.6,596,0,Le Reclute in Crescita
+242,2,100.0,2,hatha,advanced,pc,it,2021-10-06,2022-05-26,2022-06-24,1.0,813,4,I Cacciatori di Challenge
+243,3,67.0,3,meditation,advanced,pc,fr,2020-08-24,2022-02-07,2023-12-01,21.7,1221,2,Lo Zoccolo Duro
+244,8,62.0,6,meditation,advanced,tv,uk,2021-05-25,2022-06-05,2023-07-15,13.3,947,1,I Campioni
+245,4,75.0,3,power yoga,basic,mobile,uk,2022-11-28,2023-03-15,2023-11-23,8.3,395,0,Le Reclute in Crescita
